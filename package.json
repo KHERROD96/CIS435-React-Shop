@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://kherrod96.github.io/CIS435-React-Shop/"
+  "homepage": " https://kherrod96.github.io/CIS435-React-Shop/",
   "dependencies": {
     "axios": "^0.18.0",
     "concurrently": "^4.0.1",
