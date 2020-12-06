@@ -1,0 +1,60 @@
+{
+  "products": [
+   
+    {
+      "id": 1,
+      "sku": 5678901,
+      "title": " Heavy Winter Jacket",
+      "description": "",
+      "availableSizes": ["S", "M", "L","XL"],
+      "style": "Azul escuro",
+      "price": 50.0,
+      "installments": 4,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 6789012,
+      "title": "Puffer Jacket",
+      "description": "",
+      "availableSizes": ["XS", "M", "L", "XL"],
+      "style": "",
+      "price": 25.5,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 3,
+      "sku": 8901234,
+      "title": "Lightweight Raincoat",
+      "description": "",
+      "availableSizes": ["XS", "L", "XL", "XXL"],
+      "style": "",
+      "price": 32.0,
+      "installments": 3,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 4,
+      "sku": 7890123,
+      "title": "Pull Over Hoodie",
+      "description": "",
+      "availableSizes": ["S", "M", "L"],
+      "style": "",
+      "price": 45.0,
+      "installments": 4,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    }
+  ]
+}
